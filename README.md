@@ -1,5 +1,5 @@
 # cricbuzz
-applet that keeps ivving you score of current match
+applet that keeps giving you score of current match
 run and forget
 run the script 
 paste the cricbuzz url of the match you want to  see
